@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "Gcp.VisionApiTest.Host": {
+      "commandName": "Project"
+    }
+  }
+}
